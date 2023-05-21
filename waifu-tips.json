@@ -69,7 +69,7 @@
 		"selector": ".fancybox img, img.medium-zoom-image",
 		"text": ["点击图片可以放大呢！"]
 	}, {
-		"selector": "#name",
+		"selector": "#result",
 		"text": ["好兄弟中了没中了没？"]
 	}, {
 		"selector": ".highlight .table-container, .gist",
